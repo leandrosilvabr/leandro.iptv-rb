@@ -3,9 +3,6 @@
 #PLAYLISTV: pltv-logo="https://s15.postimg.cc/nmizpp2qj/Slide1.jpg" pltv-name="JuniorTVOnline" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://s15.postimg.cc/nmizpp2qj/Slide1.jpg" pltv-author="JuniorTVOnline" pltv-site="" pltv-email="JuniorTVOnline" pltv-phone="JuniorTVOnline.
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Liga" tvg-logo="" tvg-shift="0" group-title="Filmes",Liga da Justiça
-https://x.filmes.click/m0/d/791373-720p.mp4
-
 ############################### ABERTOS #####################################
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="ABERTOS",Globo RJ HD
